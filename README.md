@@ -74,14 +74,6 @@ Substitua pelos IDs das suas planilhas:
 
 ---
 
-## 💡 Melhorias futuras
-
-* Log de execução
-* Notificação por e-mail em caso de erro
-* Interface para configuração
-
----
-
 ## 👨‍💻 Autor
 
 Mateus Schmitz
