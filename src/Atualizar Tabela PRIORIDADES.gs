@@ -3,7 +3,7 @@ function onChangeTrigger(e) {
 }
 
 /*********************************
- * ATUALIZAÇÃO DA ABA BASE PCP
+ * ATUALIZAÇÃO DA ABA *
  *********************************/
 function atualizarTabela() {
   try {
