@@ -1,4 +1,4 @@
-## Automação de Importação de Dados com Google Apps Script
+# Automação de Importação de Dados com Google Apps Script
 
 ## Sobre o projeto
 
