@@ -1,6 +1,6 @@
-#Automação de Importação de Dados com Google Apps Script
+## Automação de Importação de Dados com Google Apps Script
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto automatiza a transferência de dados entre planilhas no Google Sheets, substituindo o uso de fórmulas como `IMPORTRANGE` por uma solução mais performática e controlada via script.
 
@@ -8,14 +8,14 @@ A automação realiza a atualização dos dados de forma programada, garantindo 
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Google Apps Script
 * Google Sheets
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Importação automática de dados entre planilhas
 * Atualização programada via trigger diário
@@ -24,7 +24,7 @@ A automação realiza a atualização dos dados de forma programada, garantindo 
 
 ---
 
-## 🧠 Problema resolvido
+## Problema resolvido
 
 O uso excessivo de `IMPORTRANGE` pode causar:
 
@@ -37,7 +37,7 @@ Este script resolve esses problemas ao consolidar os dados diretamente via backe
 
 ---
 
-## ▶️ Como usar
+## Como usar
 
 ### 1. Configurar o script
 
@@ -74,6 +74,6 @@ Substitua pelos IDs das suas planilhas:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Mateus Schmitz
