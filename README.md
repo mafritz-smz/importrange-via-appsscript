@@ -66,10 +66,10 @@ Substitua pelos IDs das suas planilhas:
 
 ---
 
-## 📸 Acionador configurado
+## Acionador configurado
 ![Trigger configurado](images/Acionador-configurado.png)
 
-## 📸 Funcionabilidade do Script
+## Funcionabilidade do Script
 ![Funcionabilidade do Script](images/Funcionabilidade-Script.png)
 
 ---
